@@ -1,1 +1,19 @@
-hello world 
+<image mode='widthFix' src='http://iotcd-test.oss-cn-chengdu.aliyuncs.com/test/1590401728747.jpg'></image>
+<view class='commet'>渭南师范学院（Weinan Normal University）</view>
+<view class='body'>
+	<view class='title'>渭南师范学院是什么？</view>
+	<view>
+		学校是教育部“科学工作能力提升计划（百千万工程）”试点院校，陕西省首批深化创新创业教育改革示范高校，陕西省院士专家工作站建站单位。
+	</view>
+	<view class='title'>学校有哪些学位？</view>
+	<view>学校具有学士学位授予权，被省学位委员会、省教育厅列为拟新增硕士学位授予单位。</view>
+	<view class='title'>学校的创始人是谁？</view>
+	<view>
+		学校肇始于中国共产党陕西党团组织创始人之一、著名教育家王尚德1923年创立的赤水职业学校及之后“抗大式”的赤水农业职业学校，经历了原渭南师范学院、陕西师范大学渭南专修科、渭南师范专科学校三个时期。
+	</view>
+	<view class='title'>学校何时成为本科层次的学院？</view>
+	<view>
+		2000年，经教育部批准，渭南师范专科学校与1983年创立的渭南教育学院合并为本科层次的渭南师范学院。
+	</view>
+
+</view>
